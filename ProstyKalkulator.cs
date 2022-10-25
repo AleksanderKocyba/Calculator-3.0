@@ -52,7 +52,7 @@ namespace Calculator1
                 double result = 0;
 
 
-
+                //
                 //działania
                 switch (OperationType)
                 {
